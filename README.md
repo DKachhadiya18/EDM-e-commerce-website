@@ -1,1 +1,1 @@
-EDM e-commerce website with backend and payment method
+EDM e-commerce website with backend and Paypal payment method
